@@ -15,7 +15,7 @@ const ProfileScreen = (props: Props) => {
             style={styles.avatar}
           />
           <Text style={styles.name}>Navin N</Text>
-          <Text style={styles.email}>navin@example.com</Text>
+          <Text style={styles.email}>navinofficial2005@gmail.com</Text>
           <View style={styles.statsRow}>
             <View style={styles.statBox}>
               <Text style={styles.statNumber}>24</Text>
