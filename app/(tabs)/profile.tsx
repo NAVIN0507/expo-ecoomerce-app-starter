@@ -40,7 +40,7 @@ const ProfileScreen = (props: Props) => {
         </TouchableOpacity>
         <TouchableOpacity style={styles.option}>
           <Ionicons name="notifications-outline" size={22} color="#6C63FF" />
-          <Text style={styles.optionText}>Notification</Text>
+          <Text style={styles.optionText}>Notifications</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.option}>
           <Feather name="settings" size={20} color="#6C63FF" />
