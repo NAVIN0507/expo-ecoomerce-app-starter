@@ -27,7 +27,7 @@ const WelcomeScreen = (props: Props) => {
   const fadeAnim = useRef(new Animated.Value(1)).current;
   const translateY = useRef(new Animated.Value(20)).current;
 
-  // Array of high-end luxury fashion/shopping background images
+  
   const backgroundImages = [
     'https://images.unsplash.com/photo-1589363460779-dc892eaea70c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2240&q=80',
     'https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=2240&q=80',
